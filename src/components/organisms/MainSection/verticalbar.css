@@ -1,0 +1,38 @@
+.padding-layout {
+    padding: 15px 0;
+}
+
+.vertical-bar {
+    padding-right: 25px;
+}
+
+.btn {
+    margin: 5px 12px 5px 0;
+    
+}
+
+hr {
+    width: 180px;
+    margin-left: -30px;
+}
+
+.btn Button{
+    cursor: pointer;
+    width: max-content;
+}
+
+
+
+.chips::-webkit-scrollbar{
+    display: none;
+}
+
+.chips {
+    /* width: calc(300vw - 409px); */
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
